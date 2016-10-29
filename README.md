@@ -30,3 +30,9 @@ Reach Mars from Earth #2 - with initial angle
 Reach Earth from Mars
 
     $ java -jar core/target/time-driven-simulation.jar toEarth 1000 31536000 755 15 -1 -.6873
+    
+    
+## Authors
+* Gonzalo Ibars
+* Matias Comercio
+* Matias Mercado
